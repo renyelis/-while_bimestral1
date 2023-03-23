@@ -1,2 +1,2 @@
-# -while_bimestral1
+#  -while_bimestral1
 instrucciones repetitivas
